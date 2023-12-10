@@ -1,5 +1,5 @@
 # Town Of Host---Better
-这个是Town Of Host的一个分支版本，它将修复大部分的Las Monjas的BUG，本模组偏重于中文
+这个是Town Of Host的一个分支版本，它将修复大部分的Town Of Host的BUG，本模组偏重于中文
 
 
 免责声明：此模组不隶属于Among Us或Innersloth LLC，其中包含的内容没有得到Innersloth LLC的认可或其他赞助。此模组包含的部分材料是Innersloth LLC的资产.© Innersloth LLC.
